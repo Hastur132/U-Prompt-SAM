@@ -7,7 +7,7 @@ Official implementation of our paper:
 
 ## 🔥 Overview
 U-Prompt-SAM is a **multi-round interactive segmentation framework** that combines:
-- Automated priors (U-Net / U-Net++)  
+- Automated priors
 - Dense prompt initialization  
 - Expert refinement with Segment Anything (SAM)  
 
