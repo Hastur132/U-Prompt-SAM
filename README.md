@@ -24,9 +24,3 @@ We are currently **organizing and cleaning the code**.
 ## 📑 Citation
 If you find this work useful, please cite:
 
-```bibtex
-@article{yourbibtex2025upromptsam,
-  title={U-Prompt-SAM: Unified Prompt-Driven Interactive Segmentation with Expert Feedback},
-  author={Your Name and Others},
-  year={2025}
-}
