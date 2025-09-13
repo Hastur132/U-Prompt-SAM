@@ -24,3 +24,10 @@ We are currently **organizing and cleaning the code**.
 ## 📑 Citation
 If you find this work useful, please cite:
 
+## 🙌 Acknowledgements
+
+This repository builds upon the following works:
+
+- [U-Net](https://arxiv.org/abs/1505.04597)  
+- [U-Net++](https://arxiv.org/abs/1807.10165)  
+- [Segment Anything (SAM)](https://arxiv.org/abs/2304.02643)  
